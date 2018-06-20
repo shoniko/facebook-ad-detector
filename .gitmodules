@@ -1,0 +1,12 @@
+[submodule "keras-yolo2"]
+	path = keras-yolo2
+	url = https://github.com/shoniko/keras-yolo2.git
+[submodule "shoniko.github.io"]
+	path = shoniko.github.io
+	url = https://github.com/shoniko/shoniko.github.io.git
+[submodule "facebook-ad-extractor"]
+	path = facebook-ad-extractor
+	url = https://github.com/shoniko/facebook-ad-extractor.git
+[submodule "adblock-ai-backend"]
+	path = adblock-ai-backend
+	url = https://github.com/shoniko/adblock-ai-backend.git
